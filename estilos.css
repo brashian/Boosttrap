@@ -1,4 +1,36 @@
-.izquierda{
+.box {
+    margin: auto auto;
+}
+.container {
+    margin: 50px auto;
+}
+body {
+    background-color: rgb(31, 30, 30);
+}
+
+.bloque{
     padding: 0;
     margin: 0;
+    border: 0;
+}
+
+.derecha {
+    background-color: rgb(247, 247, 247);
+}
+#logo{
+    margin:50px;
+}
+
+#usuario{
+    margin: auto auto;
+    width: auto;
+}
+
+#clave{
+    margin: auto auto;
+    width: auto;
+}
+a{
+    color: rgb(37, 106, 196);
+    text-decoration: none;
 }
