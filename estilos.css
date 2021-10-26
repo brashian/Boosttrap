@@ -30,6 +30,13 @@ body {
     margin: auto auto;
     width: auto;
 }
+.boton {
+    margin-top: 25px;
+    padding: 5px;
+    background-color: rgb(31, 30, 30);
+    color: honeydew;  
+}
+
 a{
     color: rgb(37, 106, 196);
     text-decoration: none;
