@@ -1,0 +1,43 @@
+body{
+    background-image: url('img/5449.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: inherit;
+    background-size: cover;
+}
+
+footer{
+    background-color: rgba(212, 17, 153, 0.651);
+    color: white;
+    padding: 0;
+    margin: 0;
+    width: auto;
+    height: auto;
+}
+
+header{
+    background-color: rgba(212, 17, 153, 0.651);
+}
+
+.foto{
+    width: auto;
+    height: auto;
+}
+
+.blackhole{
+    width: 250px;
+    height: 250px;
+}
+.texto{
+    color: white;
+}
+
+.fondo{
+    background-color: rgba(97, 19, 55, 0.562);
+}
+
+
+.expand{
+    
+    padding: 0;
+}
