@@ -52,7 +52,14 @@ header{
     width: 70px;
     height: 70px;
 }
-.expand{
-    
-    padding: 0;
+
+.navi a{
+    font-size: 20px;
+    color:white;
+    text-decoration: none;
 }
+
+.navi a:hover{
+    color: rgb(184, 171, 171);
+}
+
