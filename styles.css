@@ -17,11 +17,15 @@ footer{
 footer p{
     font-size: 20px;
     text-align: center;
+    color: white;
 }
 
 
 header{
     background-color: rgb(165, 46, 129);
+    box-shadow: 1px 1px 1px 1px rgba(255, 255, 255, 0.192);
+    width: auto;
+    height: auto;
 }
 
 .foto{
@@ -40,6 +44,7 @@ header{
 
 .fondo{
     background-color: rgba(97, 19, 55, 0.562);
+    box-shadow: -5px 4px 4px 3px rgba(0, 0, 0, 0.685);
 }
 
 .logo {
@@ -51,4 +56,3 @@ header{
     
     padding: 0;
 }
-
