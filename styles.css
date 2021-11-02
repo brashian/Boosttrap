@@ -15,9 +15,8 @@ footer{
 }
 
 footer p{
-    font-size: 15px;
-    text-align: left;
-    color: honeydew;
+    font-size: 20px;
+    text-align: center;
 }
 
 
@@ -51,3 +50,4 @@ header{
     
     padding: 0;
 }
+
