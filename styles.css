@@ -7,16 +7,19 @@ body{
 }
 
 footer{
-    background-color: rgba(212, 17, 153, 0.651);
-    color: white;
-    padding: 0;
-    margin: 0;
+    background-color: rgb(165, 46, 129);
     width: auto;
     height: auto;
+    margin: 0;
+    padding: 10px;
+    font-size: 15px;
+    text-align: left;
+    color: honeydew;
 }
 
+
 header{
-    background-color: rgba(212, 17, 153, 0.651);
+    background-color: rgb(165, 46, 129);
 }
 
 .foto{
@@ -36,7 +39,11 @@ header{
     background-color: rgba(97, 19, 55, 0.562);
 }
 
-
+.logo {
+    float: left;
+    width: 70px;
+    height: 70px;
+}
 .expand{
     
     padding: 0;
